@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "monday": {
+      "command": "npx",
+      "args": ["-y", "mcp-remote", "https://mcp.monday.com/mcp"]
+    }
+  },
+  "disabled": false
+}
